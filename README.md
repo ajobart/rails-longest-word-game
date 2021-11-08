@@ -1,24 +1,10 @@
-# README
+# Longest Word Game
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This game presents 10 random letters of the alphabet.
 
-Things you may want to cover:
+The goal is to write the longest possible English word with the letters provided.
 
-* Ruby version
+Enjoy ! 👋
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img width="1440" alt="Capture d’écran 2021-11-08 à 17 56 58" src="https://user-images.githubusercontent.com/86856769/140785164-62c8a9f4-7919-4566-a2bf-39dd28220eea.png">
